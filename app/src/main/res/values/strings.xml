@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Intents</string>
+
+    <string name="cadastro">Cadastro</string>
+    <string name="config">Configuração</string>
+    <string name="browser">Browser</string>
+    <string name="fake">Browser Fake</string>
+</resources>
